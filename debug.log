@@ -1,0 +1,20 @@
+[1004/163833:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[1004/163848:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[1202/181227:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[1202/181404:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[1216/113409:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[1217/132704:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0118/203539:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0130/184344:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0212/212206:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0212/212207:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0224/125327:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0224/134537:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0224/134545:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0303/183607:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0303/183643:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0303/183736:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0303/183752:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0303/183843:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0303/183859:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0410/192850.609:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: The pipe has been ended. (0x6D)
